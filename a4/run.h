@@ -1,3 +1,4 @@
+#include "Queue.cpp"
 
 using namespace std;
 
@@ -12,5 +13,6 @@ class Run
 	
 	private:
 		int numOfWindows;
+		Queue<int> studentQ;
 	
 };

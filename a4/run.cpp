@@ -34,6 +34,7 @@ int Run::getData()
 	string line = "";
 	int time=1;
 	int fileTime;
+	
 	//implement ++time
 	
 	
